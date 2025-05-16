@@ -6,10 +6,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # Dependency directories (kept in repo)
-# node_modules/   <--- NOT ignored as you requested
+node_modules/   <--- NOT ignored as you requested
 
 # Environment files (kept in repo)
-# .env           <--- NOT ignored as you requested
+.env           <--- NOT ignored as you requested
 
 # Optional npm cache directory
 .npm
